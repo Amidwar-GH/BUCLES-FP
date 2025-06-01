@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	int n, SumaDePares=0, SumaDeImpares=0, opcion; // NUMERO LIMITE // SUMA// 
-	cout<<"Digite un numero para saber la suma de sus impares: "<<endl;
+	cout<<"Digite un termino para saber la suma : "<<endl;
 	cin>>n;
 	
 	for(int i=1; i<=n; i++){
